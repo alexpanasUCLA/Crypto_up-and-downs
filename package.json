@@ -1,0 +1,19 @@
+{
+  "name": "upanddowns",
+  "version": "1.0.0",
+  "description": "Number of up and down coins",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "up",
+    "and",
+    "down"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
