@@ -1,6 +1,7 @@
 const btn = document.querySelector('button');
 const priceSpan = document.querySelector('span');
 const topTen = document.querySelector('.topten');
+const imgGif = document.selectElementbyId('gifImage');
 
 
 btn.addEventListener('click', function () {
